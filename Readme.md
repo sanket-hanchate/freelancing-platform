@@ -6,12 +6,12 @@
 - **Database**: SQLite
 
 ## Run Backend
-cd backend
-npm install
+cd backend<br>
+npm install<br>
 node app.js
 
 
 ## Run Frontend
-cd frontend
-npm install
+cd frontend<br>
+npm install<br>
 npm run dev
